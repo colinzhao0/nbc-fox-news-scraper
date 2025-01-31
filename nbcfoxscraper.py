@@ -3,7 +3,7 @@ import requests
 import json
 
 
-url = "http://www.foxnews.com/politics/obamacare-in-trouble-exchange-provision-delayed-as-lawmakers-push-to-repeal/"
+url = "https://www.foxbusiness.com/politics/nvidia-ceo-jensen-huang-meet-trump-white-house"
 
 #get article text from nbcnews url
 def getArticleBody(url):
